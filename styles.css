@@ -76,9 +76,9 @@ nav ul li a {
   position: absolute;
   bottom: 0;
   right: 10%;
-  .feature-img .anim {
-    animation-delay: 1.5s;
-  }
+}
+.feature-img .anim {
+  animation-delay: 1.5s;
 }
 .anim {
   opacity: 0;
